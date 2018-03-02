@@ -1,12 +1,12 @@
-# iTrustU-loopback
-Si Slamet Backend using Loopback
+# loopback-starter-boilerplate
+Loopback for our rapid prototyping app
 
 
 ## Install Guide
 1. Clone this repo
-2. ```$ cd i-trust-u-back-end```
+2. ```$ cd your-folder-name```
 3. ```$ cp .env.example .env```
-4. Isi credential pada .env
+4. fill the credential at .env file
 5. Run with command : ```$ node .```
 
 
